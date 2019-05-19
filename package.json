@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-v1-examples",
+  "version": "1.0.0",
+  "description": "Tailwind v1 Examples",
+  "author": "Andre Madarang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "autoprefixer": "^8.6.4",
+    "tailwindcss": "^1.0.1"
+  }
+}
