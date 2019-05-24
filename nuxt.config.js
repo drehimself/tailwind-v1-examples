@@ -1,4 +1,5 @@
 import pkg from './package'
+import path from 'path'
 
 export default {
   mode: 'universal',
@@ -7,7 +8,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: pkg.name,
+    title: 'Tailwind CSS v1.0 - Examples of Web Pages' ,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -43,7 +44,12 @@ export default {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    'nuxt-purgecss',
   ],
+  purgeCSS: {
+    mode: 'postcss'
+  },
+
   /*
   ** Axios module configuration
   */
@@ -55,6 +61,11 @@ export default {
   ** Build configuration
   */
   build: {
+    postcss: {
+      plugins: {
+        'tailwindcss': path.resolve(__dirname, 'tailwind.config.js'),
+      }
+    },
     /*
     ** You can extend webpack config here
     */
