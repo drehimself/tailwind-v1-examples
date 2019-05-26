@@ -36,7 +36,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    { src: '~/plugins/vue-airbnb-style-datepicker.js', ssr: false }
+    { src: '~/plugins/vue-airbnb-style-datepicker.js', ssr: true }
   ],
 
   /*
@@ -48,7 +48,8 @@ export default {
     'nuxt-purgecss',
   ],
   purgeCSS: {
-    mode: 'postcss'
+    mode: 'postcss',
+    whitelistPatterns: [/asd.*/],
   },
 
   /*
