@@ -4,6 +4,8 @@ module.exports = {
       colors: {
         'meetup-blue': '#00455D',
         'meetup-purple': '#1F24CC',
+        'gray-750': '#3f495a',
+        'gray-850': '#222733',
       },
       spacing: {
         '72': '18rem',
