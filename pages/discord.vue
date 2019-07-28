@@ -27,7 +27,7 @@
         </ul>
       </div>
     </div>
-    <div class="flex flex-col min-h-screen h-screen">
+    <div class="flex-1 flex flex-col min-h-screen h-screen">
       <div class="flex text-white h-12">
         <div class="bg-gray-800 w-56 flex-none flex items-center justify-between border-b border-gray-900 px-3 py-2">
           <div>Tailwind CSS</div>
@@ -205,10 +205,153 @@
         </div>
         <div class="flex-1 flex justify-between">
           <div class="bg-gray-750 flex-1 flex flex-col justify-between">
-            <div class="overflow-y-auto">
-              Display chat contents. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam esse, voluptates quae at cum corrupti repellendus. Amet, minima optio odio repellendus iusto quidem molestias asperiores, laboriosam quod culpa libero minus maxime possimus ipsum laborum dolore vero soluta sunt modi. Error provident eos nihil at minima, fugiat vero illum fuga odit culpa nisi cum delectus saepe iure vitae asperiores dolore deserunt incidunt ipsa labore eius! Recusandae, excepturi. Est ea, deleniti aliquam vitae nemo quod molestias aspernatur molestiae pariatur similique repellendus quo minus animi illo error. Repellendus, esse repudiandae mollitia minus quidem veniam dolorem iure, laboriosam, asperiores repellat expedita eius itaque quod placeat doloremque! Unde laboriosam voluptas adipisci id officiis a, voluptatem quibusdam nostrum culpa amet repudiandae repellendus. Excepturi, numquam deserunt explicabo assumenda ab quam non magni quisquam laborum perspiciatis rerum doloribus nisi cumque, error incidunt autem illo quidem facilis! Assumenda, repellendus consequuntur omnis accusantium at consequatur nemo quod sapiente, minus velit quo mollitia, doloribus ipsam dicta sit unde rerum magnam. Ipsum itaque harum consequatur deleniti expedita quos cumque eaque dolores laudantium necessitatibus iusto aut, corrupti provident nostrum adipisci? Labore iusto eius dolor cumque, sed sunt? Praesentium consequatur amet rerum debitis quasi aspernatur facere modi quibusdam vitae illum, eligendi non, sequi ipsum eum, assumenda nam nesciunt tenetur quisquam sunt nemo culpa. Minima porro modi quaerat esse. Commodi illum mollitia totam laborum adipisci sapiente officia ea quia autem labore dolore in animi natus optio modi, quaerat non esse minima quos delectus, magni quisquam omnis. Ipsam, incidunt ullam! Rem, laborum ut dolorem, nesciunt tempora possimus itaque laboriosam, quasi aspernatur provident ducimus maxime assumenda quam odio ipsum! Odio et quia fugit vitae reprehenderit eligendi. Tenetur, at est ullam laboriosam, id sapiente, nobis dignissimos commodi aspernatur aperiam qui voluptates laborum deserunt totam consequuntur in. Eveniet in atque hic, modi officiis obcaecati ipsam nemo doloremque vel nihil ea voluptatum, totam distinctio laborum architecto magni vero laudantium ad autem iure. Culpa sint facere magni officia! Quasi, ducimus debitis. Sint optio autem dolorem culpa? Iusto voluptate sit, modi voluptates ea tempora qui est, consequuntur et animi quas vero eius magnam maxime quidem suscipit quod exercitationem, distinctio neque quis enim! Dignissimos fugiat explicabo vero, iure similique aspernatur officia animi magni autem quasi est odit mollitia maiores id tenetur illo deserunt obcaecati ut? Repudiandae sint necessitatibus exercitationem dolores velit suscipit voluptates, veritatis praesentium dolor soluta unde neque quia odio, ipsam itaque obcaecati corrupti! Molestias consequuntur libero saepe ducimus quo illo est repudiandae a atque error voluptatibus in odit aspernatur eligendi hic iste quas, dolores beatae laboriosam fuga quis. Fugit est nesciunt nisi facilis consequuntur, sequi ex dignissimos, cupiditate officia dicta quod tempore architecto, quidem numquam quaerat. Adipisci commodi consequuntur voluptatum velit vitae odio quidem totam minima hic sunt perferendis, neque quisquam vero maiores minus praesentium voluptates eaque. Possimus ipsam error accusamus sit doloribus? Architecto, id deserunt. Soluta pariatur deserunt reiciendis quo temporibus nesciunt blanditiis tempora non. Maiores quia commodi, distinctio rem possimus repudiandae non eaque nulla id illo recusandae odit sunt nisi est tempore minima perspiciatis saepe ad odio. Id sit adipisci architecto non dolorum debitis consectetur dolor earum fuga nihil ex provident quis beatae nisi maxime suscipit, totam officiis quibusdam quos. Quaerat fugit aliquid culpa reprehenderit consequatur impedit ad rem vero libero voluptatibus soluta cumque earum, dolor deleniti est commodi ex alias! Voluptatum, ab pariatur veniam dicta, corrupti ea voluptates corporis tenetur velit est laborum suscipit! Nemo ullam qui quasi odio mollitia corrupti tenetur sint. Cum, aliquam? Quibusdam necessitatibus facere cupiditate alias ullam odio et ipsam nam excepturi atque! Repellat debitis blanditiis aliquid eligendi laudantium non saepe tempora amet dignissimos, consequatur omnis id molestias dicta minima consequuntur deleniti modi unde velit quod labore minus quisquam. Neque modi reiciendis natus nam error saepe nulla nostrum quas quae inventore numquam maxime iure, vitae cumque commodi repudiandae, perferendis ducimus dolores repellendus esse blanditiis minus? Possimus suscipit dignissimos minima quae quia cum quis quasi porro ipsum, sapiente neque ad incidunt deserunt doloremque? Numquam voluptas, magnam nesciunt porro, voluptates odio nam, qui nostrum minima quod soluta? Voluptate repudiandae obcaecati blanditiis impedit similique suscipit nam cumque hic in nobis, architecto exercitationem sequi consequatur praesentium, nostrum illo explicabo officiis cum eligendi, esse repellat at? Dolorum ipsa esse voluptas blanditiis vero laborum culpa hic reprehenderit ullam expedita non accusantium, sint totam. Provident, esse. Sequi eius eligendi asperiores suscipit quaerat a, omnis magnam quos iusto reprehenderit ipsa, similique impedit voluptatibus soluta tempore. Dignissimos est et harum minima sunt sit blanditiis temporibus. Perferendis error quasi, sint provident amet doloribus, quibusdam numquam vel cumque quam accusantium reiciendis! Vitae iusto nobis eum hic alias maxime minus culpa, est consectetur aspernatur totam explicabo laboriosam corporis nesciunt aliquid fugit quos a amet ipsa reprehenderit commodi. Repellendus quod dolore doloremque, placeat doloribus hic laboriosam debitis quaerat quis alias nobis recusandae molestias ea, delectus dolorum ipsa laborum enim, atque ipsam eligendi! Modi, deleniti asperiores quidem voluptatem ad ut harum aspernatur ea optio quibusdam voluptates quod aliquid quae necessitatibus quas, quasi officia. Sunt possimus voluptatem, neque vel autem quia nihil omnis excepturi error, dolores id iure provident voluptas? Sint, ad cupiditate! Quaerat, architecto. Exercitationem dignissimos et, nemo tempore ex amet ipsam voluptatem sequi libero tenetur ullam minus, quasi labore, consectetur itaque iste laudantium! Tempora repudiandae qui necessitatibus dolore optio. Suscipit veniam, exercitationem consequuntur voluptatum quibusdam corrupti itaque totam temporibus? Nisi, quos aut. Doloremque magni id magnam eum quod fugit impedit doloribus, veritatis harum at amet expedita quos culpa in. Ex et atque repudiandae sunt, quia deserunt aspernatur. Ratione sit deserunt enim excepturi voluptatum dolore modi aperiam cumque maiores debitis culpa fugiat molestias quaerat ad, delectus distinctio, voluptas, quos beatae. Ullam ad possimus vel explicabo quisquam necessitatibus rerum saepe minima pariatur, officia sed at aut quis quas tempora accusantium quasi similique rem natus! Saepe sunt nobis quos dignissimos a delectus vitae. Ut ipsa explicabo quos voluptate eveniet ex porro iure labore voluptatem adipisci, est quisquam perferendis rem nam reprehenderit voluptatibus impedit eligendi, et harum quae vitae quod ea. Voluptates numquam veritatis minus fugit assumenda voluptas. Fugit consequuntur veniam itaque incidunt doloremque facilis vero consectetur atque quia animi similique aliquid, debitis enim deserunt quibusdam blanditiis reiciendis at ullam cum quae omnis, earum voluptatem labore. Perferendis odit quae pariatur et, quisquam fugiat provident ab, aperiam dolorum aliquid vitae excepturi beatae impedit? Nisi, animi quisquam! Illum, non sapiente! Repudiandae obcaecati sint est? Velit voluptatibus vero quae dolor, alias, nemo quibusdam excepturi ad enim, perferendis porro recusandae. Nobis nemo illum tempore sunt ex quaerat, eligendi quia sapiente officiis perspiciatis exercitationem inventore consequatur similique laboriosam suscipit voluptatem provident hic quam. Ipsam, dignissimos adipisci! Distinctio ab quibusdam animi laborum libero laudantium ullam culpa dignissimos iure rerum? Omnis non velit ex exercitationem similique inventore neque, atque ipsum recusandae labore eos officiis nisi eveniet consequuntur consequatur repellat explicabo. Officiis reprehenderit blanditiis mollitia exercitationem tempora doloremque porro asperiores numquam commodi ullam placeat, iure dicta dolor doloribus recusandae dolore, nesciunt soluta? Unde id dolores illum ipsa nesciunt fugiat deleniti obcaecati quisquam, quas similique assumenda molestiae quo sed voluptatum rerum est optio necessitatibus dolore natus possimus excepturi dolorum asperiores placeat? Corrupti earum, sapiente et ducimus laborum tempore nemo minima possimus, eaque hic omnis quae harum impedit in? Atque aspernatur aut iure. Quaerat totam facilis excepturi eius officiis animi tempore saepe reiciendis hic, repellendus nemo neque alias qui natus fuga!
+            <div class="text-sm text-gray-400 overflow-y-auto">
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>yeah hahaha</div>
+                    <div>some other comment</div>
+                    <div>why are you so awesome</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>Here are the <a href="#" class="text-blue-400 hover:underline">Tailwind docs</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>Does that result in the raw svg being inlined in the DOM?</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>This is handy if you don't want to load SVG as a separate file.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>Exactly the same way as in Vue <a href="#" class="text-indigo-400 hover:underline">@impulse</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>I think it can slow down the page if there's too much bloat in the document.</div>
+                    <div>Compared to loading it externally.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>Comparison would be better if it's not also comparing an vector svg to a raster gif, it's a difference in rendering too.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>Thank you that works perfectly! Turns out my z-index (or lack of setting one) was also messing things up on the navbar.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>yeah i never really use z-index</div>
+                    <div>for anything heh</div>
+                  </div>
+                </div>
+              </div>
+              <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
+                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="ml-5">
+                  <div>
+                    <a href="#" class="text-white hover:underline">drehimself</a>
+                    <span class="text-xs text-gray-600 ml-1">07/17/2019</span>
+                  </div>
+                  <div>
+                    <div>awesome thats cool to hear!</div>
+                  </div>
+                </div>
+              </div>
+
+
             </div>
-            <div class="bg-gray-700">Chat input goes here</div>
+            <div class="bg-gray-750 h-24 flex items-center mx-3 border-t border-gray-600">
+              <button class="px-2 py-2 h-10 bg-gray-700 rounded-l text-gray-500 hover:text-white border-r border-gray-600">
+                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="plus-circle"><rect width="24" height="24" opacity="0"></rect><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm3 11h-2v2a1 1 0 0 1-2 0v-2H9a1 1 0 0 1 0-2h2V9a1 1 0 0 1 2 0v2h2a1 1 0 0 1 0 2z"></path></g></g></svg>
+              </button>
+              <div class="flex-1">
+                <input type="text" class="w-full text-sm h-10 px-2 py-2 bg-gray-700 text-gray-200 focus:outline-none">
+              </div>
+              <div class="px-2 py-2 bg-gray-700 rounded-r flex items-center h-10">
+                <button class="h-10 bg-gray-700 rounded-l text-gray-500 hover:text-white">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 512 512"><path d="M32 448c0 17.7 14.3 32 32 32h160V320H32v128zm448-288h-42.1c6.2-12.1 10.1-25.5 10.1-40 0-48.5-39.5-88-88-88-41.6 0-68.5 21.3-103 68.3-34.5-47-61.4-68.3-103-68.3-48.5 0-88 39.5-88 88 0 14.5 3.8 27.9 10.1 40H32c-17.7 0-32 14.3-32 32v80c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16v-80c0-17.7-14.3-32-32-32zm-326.1 0c-22.1 0-40-17.9-40-40s17.9-40 40-40c19.9 0 34.6 3.3 86.1 80h-86.1zm206.1 0h-86.1c51.4-76.5 65.7-80 86.1-80 22.1 0 40 17.9 40 40s-17.9 40-40 40zm-72 320h160c17.7 0 32-14.3 32-32V320H288v160z"></path></svg>
+                  </button>
+                  <button class="h-10 bg-gray-700 rounded-l text-gray-500 hover:text-white ml-3">
+                    <svg class="w-8 h-8" fill="currentColor" width="24" height="24" viewBox="0 0 24 24"><defs><path id="a" d="M24 24H0V0h24v24z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path d="M11.5 9H13v6h-1.5zM9 9H6c-.6 0-1 .5-1 1v4c0 .5.4 1 1 1h3c.6 0 1-.5 1-1v-2H8.5v1.5h-2v-3H10V10c0-.5-.4-1-1-1zm10 1.5V9h-4.5v6H16v-2h2v-1.5h-2v-1z" clip-path="url(#b)"></path></svg>
+                  </button>
+                  <button class="h-10 bg-gray-700 rounded-l text-gray-500 hover:text-white ml-3">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 496 512"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm80 168c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm-160 0c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm194.8 170.2C334.3 380.4 292.5 400 248 400s-86.3-19.6-114.8-53.8c-13.6-16.3 11-36.7 24.6-20.5 22.4 26.9 55.2 42.2 90.2 42.2s67.8-15.4 90.2-42.2c13.4-16.2 38.1 4.2 24.6 20.5z"></path></svg>
+                  </button>
+              </div>
+            </div>
           </div>
 
           <div class="bg-indigo-600 w-56 flex-none overflow-y-auto">Users sidebar. Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi excepturi, illum accusantium a, saepe placeat neque voluptas ad repellendus aperiam ducimus totam itaque fuga. Quisquam recusandae aliquam aliquid neque maxime cupiditate, explicabo eius deserunt omnis alias. Temporibus necessitatibus nemo sunt ullam impedit dolorum deserunt amet? Nam totam deleniti placeat excepturi at error ullam aliquam. Soluta, assumenda! Eligendi fugiat magnam nam in nisi quo exercitationem sed corrupti vitae! Magnam reprehenderit quod aperiam repellat recusandae perferendis expedita velit fugit esse hic ullam porro accusantium nobis aspernatur ipsum officiis possimus, praesentium assumenda molestias laborum quis asperiores quibusdam! Itaque quidem sequi excepturi, impedit eligendi, doloribus, nihil optio similique molestiae labore porro ad ipsam vero quibusdam corporis voluptatum minus. Veritatis est dicta repellat aliquam obcaecati consequuntur quos similique quas optio eligendi suscipit quis fuga nesciunt laudantium ipsam maiores velit, voluptate consequatur eveniet! Voluptate neque esse, accusantium deleniti tenetur architecto incidunt id! At provident inventore architecto nihil facilis nisi incidunt fuga repellat corporis corrupti voluptas error aspernatur totam necessitatibus exercitationem consequatur quibusdam odit earum, facere dolorem. Nulla consequuntur voluptate odit adipisci eum veniam sint, corrupti quos, placeat quaerat asperiores et voluptas sequi debitis fugiat fuga velit temporibus dignissimos molestiae saepe illum. Facere delectus est placeat soluta!</div>
