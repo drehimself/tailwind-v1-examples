@@ -82,7 +82,7 @@
               <a href="/discord" class="text-lg font-semibold hover:text-gray-600">Discord</a>
             </div>
             <div>
-              <a href="#" target="_blank" class="text-gray-800 hover:text-gray-600">Screencast</a>
+              <a href="https://youtu.be/t54tuaoHVLo" target="_blank" class="text-gray-800 hover:text-gray-600">Screencast</a>
             </div>
           </div>
         </div>
