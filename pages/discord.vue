@@ -207,7 +207,7 @@
           <div class="bg-gray-750 flex-1 flex flex-col justify-between">
             <div class="chat text-sm text-gray-400 overflow-y-auto">
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -221,7 +221,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -233,7 +233,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -245,7 +245,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -257,7 +257,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -269,7 +269,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -282,7 +282,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -294,7 +294,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -306,7 +306,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -319,7 +319,7 @@
                 </div>
               </div>
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
-                <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
+                <div class="flex-none"><a href="#"><img src="/avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
                   <div>
                     <a href="#" class="text-white hover:underline">drehimself</a>
@@ -369,13 +369,13 @@
             <ul class="mb-6 truncate">
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <div class="ml-2">
                     <div>adamwathan</div>
                     <div class="text-xxs text-gray-600">Playing <span class="font-bold">Visual Studio Code</span></div>
@@ -384,217 +384,217 @@
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">
                 <a href="#" class="flex items-center">
-                  <span class="flex-none"><a href="#"><img src="avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
+                  <span class="flex-none"><a href="#"><img src="/avatar2.jpg" alt="avatar" class="w-8 h-8 rounded-full"></a></span>
                   <span class="ml-2">adamwathan</span>
                 </a>
               </li>
