@@ -1,7 +1,7 @@
 <template>
   <div class="flex">
     <div class=" bg-gray-900 w-20 flex-none flex flex-col min-h-screen h-screen px-2 py-2">
-      <div class="overflow-y-auto">
+      <div class="channel-bar overflow-y-auto">
         <ul class="text-center">
           <li><a href="#"><img src="/icon_discord.svg" alt="discord" class="w-12 h-12 rounded-full mx-auto"></a></li>
           <li class="border-b border-gray-700 mx-4 mt-3"></li>
@@ -70,7 +70,7 @@
       </div>
       <div class="flex-1 flex overflow-y-hidden">
         <div class="bg-gray-800 w-56 flex-none flex flex-col justify-between">
-          <div class="text-sm overflow-y-auto">
+          <div class="hashtag-bar text-sm overflow-y-auto">
             <ul class="px-2 py-3">
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-900">
                 <a href="#" class="flex items-center">
@@ -205,7 +205,7 @@
         </div>
         <div class="flex-1 flex justify-between">
           <div class="bg-gray-750 flex-1 flex flex-col justify-between">
-            <div class="text-sm text-gray-400 overflow-y-auto">
+            <div class="chat text-sm text-gray-400 overflow-y-auto">
               <div class="flex mx-6 my-3 py-4 border-t border-gray-700">
                 <div class="flex-none"><a href="#"><img src="avatar.jpg" alt="avatar" class="w-10 h-10 rounded-full"></a></div>
                 <div class="ml-5">
@@ -354,7 +354,7 @@
             </div>
           </div>
 
-          <div class="bg-gray-800 w-56 flex-none px-3 py-3 overflow-y-auto">
+          <div class="sidebar-users bg-gray-800 w-56 flex-none px-3 py-3 overflow-y-auto">
             <h3 class="uppercase tracking-wide font-semibold text-xs text-gray-500 mb-2">Core Team — 1</h3>
             <ul class="mb-6">
               <li class="text-gray-500 px-2 hover:text-gray-200 hover:bg-gray-750 py-1 my-2">

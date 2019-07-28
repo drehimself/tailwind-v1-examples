@@ -7,3 +7,72 @@
 .bg-image {
   background-image: url('~assets/img/background.png');
 }
+
+.chat::-webkit-scrollbar-track
+{
+	border-radius: 0px;
+	background-color: #3F495A;
+}
+
+.chat::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #3F495A;
+}
+
+.chat::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-color: #1F2225;
+}
+
+.hashtag-bar::-webkit-scrollbar-track
+{
+	border-radius: 0px;
+	background-color: #3F495A;
+}
+
+.hashtag-bar::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #3F495A;
+}
+
+.hashtag-bar::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: #1F2225;
+}
+
+.sidebar-users::-webkit-scrollbar-track
+{
+	border-radius: 0px;
+	background-color: #3F495A;
+}
+
+.sidebar-users::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #3F495A;
+}
+
+.sidebar-users::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: #1F2225;
+}
+
+.channel-bar::-webkit-scrollbar-track
+{
+	border-radius: 0px;
+	background-color: #1F2225;
+}
+
+.channel-bar::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #1F2225;
+}
+
+.channel-bar::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: #3F495A;
+}
