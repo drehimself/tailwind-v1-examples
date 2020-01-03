@@ -58,7 +58,7 @@
           <a href="#" class="font-normal text-gray-500 ml-2 group-hover:text-white">New Playlist</a>
         </div>
       </div>
-      <div class="content-spotify bg-gray-800-spotify flex-1 flex flex-col">
+      <div class="bg-gray-800-spotify flex-1 flex flex-col">
         <div class="top-bar flex items-center justify-between px-4 py-2">
           <div class="flex items-center">
             <button>
@@ -85,7 +85,194 @@
           </div>
 
         </div>
-        <div class="overflow-y-auto">content goes ehre. Lorem ipsum dolor sit, amet consectetur adipisicing elit. At vel debitis incidunt mollitia maiores ab reiciendis, reprehenderit dolor blanditiis minus ratione minima doloribus, facilis cumque repellendus beatae obcaecati saepe. Optio id culpa velit, officiis quo omnis magnam consequatur atque enim doloremque doloribus deleniti maiores ab. Deserunt nam doloribus qui alias dolores placeat veniam omnis ipsa cumque itaque maiores fuga expedita pariatur quaerat optio, asperiores maxime blanditiis. Autem, eos quos quam animi dolores aliquid dicta cumque tempore illo molestias sunt placeat dolorum quaerat distinctio architecto voluptatibus neque. Ex dolor eum quibusdam molestias magni accusamus in, quaerat atque commodi harum est amet cumque! Accusamus consequuntur, praesentium non, unde labore delectus eveniet repellendus culpa nemo illo error consectetur hic quae expedita vitae eligendi quia architecto deserunt corrupti omnis? Odit dolor enim hic natus, voluptate esse iste ea architecto fugit unde nihil eveniet optio, autem odio voluptatibus, nulla porro doloribus illum dolore ullam libero! Obcaecati repellendus, aspernatur architecto eius sed libero rem officiis, rerum repudiandae consequatur quibusdam ut autem dicta reprehenderit atque fugit animi quae labore delectus ipsam corrupti excepturi deserunt accusamus? Dignissimos nobis modi ullam sed eaque culpa inventore et consectetur nostrum dolor assumenda quas vero, quasi nulla quia libero omnis perspiciatis perferendis? Maiores quae autem facere hic saepe voluptates id doloremque? Molestias corporis expedita asperiores perferendis et illo? Consequuntur atque excepturi veniam, nam facilis numquam rem quas impedit cumque natus fugiat exercitationem, dolores autem cupiditate quia, ut ex. Dolor dolores reiciendis illo quas, vel sed tempora. Voluptatem laboriosam deleniti rerum at enim! Aspernatur molestiae totam optio, illo praesentium nobis voluptates nam eveniet rerum, veniam fuga cum id deserunt. Dolore exercitationem quibusdam nulla modi sapiente aspernatur et rem quaerat ratione nesciunt necessitatibus consequuntur assumenda, unde magni aperiam eligendi iusto recusandae voluptatem ab earum minima. Harum illo eveniet fuga a repudiandae cupiditate praesentium beatae dignissimos culpa eos placeat labore blanditiis doloremque alias maiores error repellat ea aperiam rem esse, architecto voluptas asperiores provident saepe. Quibusdam perferendis unde molestiae fugit, aperiam hic quas consectetur voluptate reprehenderit maxime blanditiis odio a. Expedita fugiat voluptatem blanditiis, architecto itaque ipsam, incidunt adipisci pariatur hic maiores totam fugit doloremque quas? Voluptate voluptas ratione maxime ea cum vitae omnis quae modi aspernatur exercitationem ut reiciendis amet quod sint culpa libero nesciunt at totam, non sit accusamus. Unde error dolor ea laboriosam, temporibus, at adipisci a, exercitationem quam officiis aperiam id illum totam accusantium magni cum vel velit! Voluptate, beatae nihil inventore mollitia ad placeat vel quidem atque odio deleniti. Quas, placeat eum nostrum doloribus quae minima sed, quam beatae voluptates nam adipisci aut aliquid ipsum dicta tempora nihil deserunt perspiciatis aperiam praesentium iste facilis voluptatibus totam corrupti fugit! Accusamus, reprehenderit nam tenetur esse inventore eius alias eos vitae nisi, veritatis nihil? Optio molestias dolorem officia adipisci! Delectus enim quas illo aliquam ab ullam nobis officia animi saepe, neque voluptate ex, aspernatur non reiciendis amet fugiat! Voluptate repellendus ad illum pariatur qui inventore sequi labore veniam perspiciatis ex placeat sapiente accusantium dolorum, reprehenderit ipsum sed quas, aliquid mollitia! Dignissimos quam labore est temporibus exercitationem a optio. Architecto numquam blanditiis illum praesentium a, ad officia ut earum. Accusantium, voluptatem iusto. Dolorem excepturi consequuntur consectetur laudantium similique quia, odit velit nesciunt officiis porro. Iusto ut nihil aspernatur vero totam repellendus culpa. Architecto, neque ipsa. Voluptatem tempora dolores odio minus pariatur dicta repellendus libero, unde reprehenderit! Minus laborum distinctio ipsam, dolor quaerat aperiam inventore. Provident voluptate, fugit expedita optio non suscipit atque qui doloribus, minus omnis aliquam ullam repellat, iure sequi dolorum assumenda. Distinctio asperiores rerum voluptatibus blanditiis repudiandae laborum atque. Voluptates consectetur repellendus nisi ipsa, optio ratione nesciunt architecto tempora provident exercitationem autem porro rem explicabo libero saepe corrupti minus hic, sunt aliquam minima eos pariatur? Quas optio tempore inventore ab molestias ex odio officia, ipsa commodi, sapiente esse magnam. Nulla, dolore vel quis facilis, ipsum tempora ex porro praesentium dolores in amet, laborum architecto autem. Et atque quos fugit eligendi! Ipsam facilis cum nihil perspiciatis id laboriosam velit, molestiae eaque nulla architecto rerum nostrum provident dignissimos quam quod nesciunt consequatur totam neque aliquam! Sunt, fugit? Consectetur voluptates pariatur non provident, corrupti sunt ullam perspiciatis officia natus, ratione aperiam debitis laborum maxime fugit vitae placeat. Est incidunt porro necessitatibus quos cumque iste odio deserunt earum tempora nobis rem veritatis ducimus facere cupiditate pariatur laudantium, commodi eveniet quasi ad libero maiores. Eveniet, et accusantium similique deleniti nobis rem eaque nisi odit ab accusamus assumenda maxime ullam ea architecto obcaecati distinctio, eos repudiandae ut sit quidem placeat! Voluptate at id quas facere molestias, ad unde. Necessitatibus rerum consequuntur tenetur, cupiditate odit at soluta voluptatem doloremque officiis maxime, corrupti quam saepe? Aperiam nemo atque velit consequatur iste reiciendis autem, explicabo odio quo excepturi provident, perferendis possimus deleniti incidunt molestias necessitatibus sed numquam? Dolor dicta, hic ut adipisci aliquam maxime. Mollitia, saepe accusantium a, aliquid sunt rerum aut inventore optio corporis voluptatibus enim tenetur consequuntur quo officiis recusandae exercitationem quia consectetur ducimus maiores, quos unde natus. Nihil, expedita! Quisquam corporis iure dicta a autem. Beatae tenetur exercitationem molestiae vitae consequuntur eaque quam quasi voluptatibus quos ipsam dolorum nostrum placeat aspernatur suscipit ex omnis, odio, possimus quis doloremque sed sint obcaecati. Ullam fugiat cum doloremque illum tempore quasi temporibus tenetur labore voluptatibus aliquid error doloribus accusantium sequi a, veniam nisi explicabo reiciendis? Voluptatem minima reprehenderit quam mollitia non distinctio, praesentium nesciunt alias reiciendis impedit error cupiditate amet modi, velit provident, veniam assumenda maiores nihil nobis nam illo nostrum ab iure. Quos alias, voluptatum fugit soluta nulla maiores cumque nam tempora culpa commodi sed unde saepe facilis cum hic qui? Totam deleniti optio, reiciendis consectetur eveniet cum molestiae nihil omnis beatae architecto incidunt tempore at sed et itaque. Necessitatibus beatae distinctio voluptates aut veniam optio explicabo. Illo nisi inventore sit est accusantium doloribus ab porro, eius laboriosam similique. Molestias, quidem saepe porro possimus praesentium, consequuntur vitae placeat veniam incidunt ipsa perferendis maxime, fugit cum! Rem fugit aut architecto iste. Quas odit doloribus unde suscipit placeat, veritatis laboriosam perferendis aut corrupti porro reprehenderit odio culpa expedita nemo? Facilis nostrum iure dolorem omnis molestiae. Laborum natus nisi quam provident soluta delectus quisquam et perspiciatis enim ea laudantium cum ex ipsa repellendus iusto at, eligendi unde tempora earum eius? Recusandae omnis veniam pariatur voluptatem doloremque molestias repudiandae dignissimos odit tenetur nihil impedit beatae corporis perferendis quis molestiae, eligendi, unde mollitia, quas voluptates accusamus magnam alias esse consectetur maiores? Dolorem quo ex accusamus facere dolorum similique fuga recusandae quae ipsam, quisquam sunt dignissimos delectus dolore odit perferendis doloremque assumenda facilis veniam repellat necessitatibus quibusdam. Sit dolorem quasi porro sed molestias exercitationem ut ducimus vel aut natus iste debitis necessitatibus ea id, quos corporis quod culpa eveniet error quam aspernatur laudantium architecto. Nulla libero nobis similique aspernatur. Rerum adipisci ducimus soluta voluptatum amet reiciendis facere quae architecto tenetur. Distinctio eius voluptate iusto natus ex doloribus alias nemo suscipit, id, quam adipisci veritatis minus sunt hic aperiam sequi eum facere qui rerum esse at modi. Tempore sint, expedita quod nam nesciunt molestias. At ex ullam nihil facilis sit quaerat distinctio. Corporis deleniti nobis magnam recusandae ipsa provident nam voluptatem rerum corrupti similique, dolore, quod officia dolor aspernatur rem fugit modi consequuntur perspiciatis? Possimus tenetur vero, in provident ad id culpa totam reiciendis aliquid ratione obcaecati doloremque dolorum eos nobis omnis fugit dolorem perspiciatis non dignissimos asperiores. Iusto soluta, autem suscipit ad, nisi, facilis nulla repudiandae maxime delectus minima sit vero eius amet consequatur. Iure, error voluptatum magnam unde temporibus explicabo repudiandae facere officiis sunt quidem reprehenderit dolorum dolores sed similique veniam quasi. Exercitationem sequi similique alias quam ea nisi quia voluptatibus quos eius temporibus aut explicabo perspiciatis, harum aspernatur ratione dignissimos, repudiandae corrupti. Ratione qui distinctio, obcaecati molestiae ullam dolores, eum quos enim quaerat tempore excepturi doloremque cupiditate doloribus hic consectetur dolor dolorum illum cumque quod expedita nisi quo. At perferendis nihil molestias distinctio atque delectus sapiente officia dicta inventore impedit ratione eum iure eaque nemo architecto voluptatibus, quam exercitationem laboriosam illo ullam sequi aliquam non fugiat accusantium? Debitis voluptate modi praesentium laborum cupiditate aut iure minima minus dolor expedita voluptatibus, nobis quo! A sit ad nisi odit veritatis, ab impedit illum, alias laborum molestiae dolore atque hic unde dolorum. Dicta minima delectus quasi obcaecati illum ratione numquam beatae temporibus facere architecto magni, molestiae dolores dignissimos voluptate laudantium deleniti quae voluptas cupiditate? Magnam officia quam necessitatibus mollitia id error iure dignissimos eligendi? Quidem veniam rem excepturi dolor, saepe doloribus ullam, quibusdam laboriosam id minima officia est accusamus numquam eos itaque vero officiis ad laborum nisi earum autem. Voluptates repudiandae animi perspiciatis tempora accusantium? Deleniti sunt illo ipsam sed provident voluptate vitae odio, amet minus quae quisquam. Iste alias, at perspiciatis fugiat mollitia sed commodi culpa, error voluptate voluptates vel optio totam obcaecati hic blanditiis eaque, eius ex cum architecto molestias voluptas illum suscipit quas consectetur? Nihil mollitia, possimus esse error, illum sunt ullam adipisci et assumenda ea alias hic officia qui. Repellat itaque quidem rerum quas nulla soluta nemo cupiditate eius debitis odit unde sunt cum consequatur error est dicta adipisci eum, dolore officia sit ratione repudiandae provident modi! Perspiciatis corrupti enim inventore labore non voluptas impedit nobis placeat ullam. Nemo sapiente sunt accusantium excepturi delectus laboriosam fuga iure. Assumenda harum quasi iusto porro ad eos obcaecati illo cumque ipsam, eius ex aliquam possimus nihil consectetur tempore fugit ab! Odit suscipit doloremque pariatur eligendi culpa expedita dolore inventore. Deserunt hic nemo nisi exercitationem eveniet ut iure quam id, totam reiciendis velit? At cupiditate doloremque tempora id? Delectus, reiciendis corrupti! Laboriosam, dolorem fugit! Laudantium, nemo numquam. Illum dolore obcaecati velit unde voluptas, eaque quas quasi perferendis ratione maiores est consequatur, nisi, a officia quo ullam culpa eos temporibus debitis nihil labore deserunt laboriosam. Inventore itaque debitis voluptatem officiis, deserunt excepturi accusamus temporibus beatae exercitationem voluptate unde qui reprehenderit sapiente ad culpa mollitia asperiores iure magni sequi, suscipit dolorum odio provident alias? At quos eaque, possimus animi optio enim eligendi dignissimos quod tempora rerum asperiores consequatur officia ipsum minima vel maxime delectus dolorem molestias dolor officiis dolores alias assumenda! Veniam doloribus eos fugit accusantium minus! Voluptates, mollitia dolor minima ducimus vel sint magni doloribus explicabo rerum id, nesciunt vero ipsum quae quis praesentium quasi vitae quaerat, saepe sapiente. Rerum et commodi, qui autem enim alias fugiat dolorem? Vel eligendi tempore sequi ipsam non perferendis hic! Asperiores modi perspiciatis aperiam rerum quidem enim vel labore debitis dolorum amet, consectetur commodi architecto fugit voluptas et hic odio deserunt fugiat reiciendis beatae! Veniam consequatur eaque nam aut cupiditate autem nobis explicabo et. Deleniti, quasi aut voluptatum quos unde dolore magnam maiores tenetur totam doloremque. Dolorem doloribus qui placeat. Ad iste aliquam laudantium accusantium quam ab vitae maxime distinctio consequatur odit inventore hic accusamus laborum explicabo, nobis quis enim obcaecati. Dolores officiis porro, molestias fuga odit, delectus perferendis sapiente eum dolorem enim corporis blanditiis ullam ea unde culpa saepe iusto, dolore at aliquam veritatis. Tempore, quasi. Rerum repellendus, quo perferendis dolorem ut deleniti soluta eos cumque fuga at velit earum consequuntur laborum beatae sit aut dolores natus cum architecto nisi adipisci esse quos atque neque? Ipsam excepturi molestias quasi deleniti dignissimos libero voluptas pariatur perferendis alias cumque accusantium beatae facilis, aliquam esse consequuntur culpa atque, quas placeat unde provident explicabo illum tempore, similique ad! Molestias non deserunt expedita. Voluptate nostrum dolor dicta reprehenderit ex consequatur asperiores fugit magnam vero debitis doloribus quia omnis veritatis facere saepe laboriosam veniam praesentium, quidem temporibus ea voluptatum. Vero possimus, voluptatem nemo cupiditate vel quae labore aperiam quasi consequatur corporis quod nihil. Architecto praesentium, fugit laboriosam temporibus enim totam in molestias cum quidem perspiciatis eos est, ipsum unde ratione, vitae ducimus sint harum nemo a asperiores atque! Illo recusandae vel repellendus repellat facilis, magnam dolore vitae ipsum voluptatibus sequi dolorum itaque quis, provident at voluptate voluptatum. Cumque, voluptatum sed ut porro excepturi dolorum vel quisquam qui! Quaerat, asperiores! Dicta, eaque atque. Recusandae sit dolorum beatae. Facere placeat rerum maxime laborum voluptate! Molestias, dolorem expedita, facilis quas deserunt soluta et sint cupiditate nulla eum esse? Doloribus vero labore vitae libero quae iste atque eligendi dolor, rem deserunt?</div>
+        <div class="content-spotify overflow-y-auto">
+          <div class="container mx-auto">
+            <h2 class="mt-24 text-5xl font-semibold text-white">Home</h2>
+
+            <div class="mt-12">
+              <h3 class="font-semibold text-xl border-b border-gray-900 pb-2">Recently Played</h3>
+              <div class="flex items-center mt-4 -mx-4">
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover02.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover03.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Christmas</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover04.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover05.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover06.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="mt-12">
+              <h3 class="font-semibold text-xl border-b border-gray-900 pb-2">Your Heavy Rotation</h3>
+              <div class="flex items-center mt-4 -mx-4">
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover06.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover05.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover04.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover03.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover02.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="mt-12 mb-12">
+              <h3 class="font-semibold text-xl border-b border-gray-900 pb-2">Chill</h3>
+              <div class="flex items-center mt-4 -mx-4">
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover02.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover03.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover04.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover05.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+                <div class="w-1/5 px-4">
+                  <div>
+                    <a href="#"><img src="albumcover06.jpg" alt="album cover"></a>
+                  </div>
+                  <div>
+                    <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
+                    <div class="text-gray-500 mt-2">Amazing Acoustic Covers updated every week.</div>
+                    <div class="uppercase tracking-widest text-xs text-gray-500 mt-2">6679 Followers</div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <div class="bg-gray-700-spotify flex-none h-22 px-5 flex items-center justify-between">

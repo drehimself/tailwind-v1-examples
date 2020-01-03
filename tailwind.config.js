@@ -27,6 +27,9 @@ module.exports = {
         'extra-loose': '2.5',
       },
     },
+    container: {
+      padding: '1rem'
+    },
     fontFamily: {
       sans: [
         '-apple-system',
