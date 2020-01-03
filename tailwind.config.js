@@ -6,6 +6,9 @@ module.exports = {
         'meetup-purple': '#1F24CC',
         'gray-750': '#3f495a',
         'gray-850': '#222733',
+        'gray-900-spotify': '#121212',
+        'gray-800-spotify': '#181818',
+        'gray-700-spotify': '#282828',
       },
       spacing: {
         '72': '18rem',
@@ -16,6 +19,9 @@ module.exports = {
       },
       fontSize: {
         xxs: '0.5rem',
+      },
+      lineHeight: {
+        'extra-loose': '2.5',
       },
     },
     fontFamily: {
@@ -59,6 +65,8 @@ module.exports = {
       ],
     },
   },
-  variants: {},
+  variants: {
+    textColor: ['responsive', 'hover', 'focus', 'group-hover'],
+  },
   plugins: []
 }
