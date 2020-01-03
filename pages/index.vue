@@ -4,7 +4,7 @@
       <div class="mt-24 mb-4">
         <svg class="h-48" viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><circle id="b" cx="40" cy="40" r="40"/><filter x="-8.8%" y="-6.2%" width="117.5%" height="117.5%" filterUnits="objectBoundingBox" id="a"><feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0" in="shadowBlurOuter1"/></filter><linearGradient x1="0%" y1="0%" y2="100%" id="c"><stop stop-color="#2383AE" offset="0%"/><stop stop-color="#6DD7B9" offset="100%"/></linearGradient></defs><g fill="none" fill-rule="evenodd"><g transform="translate(5 5)"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#FFF" xlink:href="#b"/></g><path d="M25.6 33.92C27.52 26.24 32.32 22.4 40 22.4c11.52 0 12.96 8.64 18.72 10.08 3.84.96 7.2-.48 10.08-4.32-1.92 7.68-6.72 11.52-14.4 11.52-11.52 0-12.96-8.64-18.72-10.08-3.84-.96-7.2.48-10.08 4.32zM11.2 51.2c1.92-7.68 6.72-11.52 14.4-11.52 11.52 0 12.96 8.64 18.72 10.08 3.84.96 7.2-.48 10.08-4.32-1.92 7.68-6.72 11.52-14.4 11.52-11.52 0-12.96-8.64-18.72-10.08-3.84-.96-7.2.48-10.08 4.32z" fill="url(#c)" transform="translate(5 5)"/></g></svg>
       </div>
-      <h1 class="text-3xl font-bold mb-1">Tailwind CSS v1.0 Examples</h1>
+      <h1 class="text-3xl font-bold mb-1">Tailwind CSS v1 Examples</h1>
       <p class="mb-10">For Tailwind v0.7.4 examples, <a href="https://tailwindcss.andredemos.ca" class="text-blue-600 hover:text-blue-800">go here</a>.</p>
       <div class="flex flex-wrap items-center justify-between w-3/5 mx-auto mb-10">
         <div class="item-my-website w-64 flex items-center mx-auto mb-8 pr-8">
@@ -83,6 +83,22 @@
             </div>
             <div>
               <a href="https://youtu.be/t54tuaoHVLo" target="_blank" class="text-gray-800 hover:text-gray-600">Screencast</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-spotify w-64 flex items-center mx-auto mb-8 pr-8">
+          <div class="mr-4">
+            <a href="/spotify">
+              <svg width="80" height="80" viewBox="0 0 80 80" fill="none"><circle cx="40" cy="40" r="40" fill="#fff"/><path d="M39.998 10.1c-16.517 0-29.908 13.39-29.908 29.907 0 16.519 13.391 29.908 29.909 29.908 16.519 0 29.908-13.39 29.908-29.908 0-16.516-13.39-29.906-29.909-29.906V10.1zm13.716 43.135a1.863 1.863 0 01-2.564.618c-7.022-4.29-15.862-5.26-26.273-2.882a1.865 1.865 0 01-.83-3.636c11.393-2.604 21.166-1.482 29.05 3.336a1.864 1.864 0 01.617 2.564zm3.661-8.144a2.331 2.331 0 01-3.207.77c-8.04-4.943-20.294-6.374-29.803-3.488a2.335 2.335 0 01-2.91-1.553 2.335 2.335 0 011.555-2.909c10.862-3.295 24.365-1.699 33.597 3.974a2.33 2.33 0 01.768 3.206zm.314-8.48c-9.639-5.726-25.543-6.252-34.746-3.459a2.797 2.797 0 11-1.624-5.354c10.565-3.207 28.127-2.587 39.225 4.001a2.794 2.794 0 01.979 3.834 2.795 2.795 0 01-3.832.978h-.002z" fill="#1ED760"/></svg>
+            </a>
+          </div>
+          <div class="leading-tight">
+            <div>
+              <a href="/spotify" class="text-lg font-semibold hover:text-gray-600">Spotify</a>
+            </div>
+            <div>
+              <a href="#" target="_blank" class="text-gray-800 hover:text-gray-600">Screencast</a>
             </div>
           </div>
         </div>

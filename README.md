@@ -1,6 +1,6 @@
-# Tailwind CSS v1.0 Examples
+# Tailwind CSS v1.x Examples
 
-A collection of web pages and web components built in Tailwind CSS v1.0. For Tailwind CSS v0.7.4 examples, check out [my other repo](https://github.com/drehimself/tailwind-examples).
+A collection of web pages and web components built in Tailwind CSS v1.x. For Tailwind CSS v0.7.4 examples, check out [my other repo](https://github.com/drehimself/tailwind-examples).
 
 Website: [https://tailwind-v1-examples.netlify.com](https://tailwind-v1-examples.netlify.com)
 
