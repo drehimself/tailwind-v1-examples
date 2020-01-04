@@ -94,7 +94,7 @@
               <div class="flex items-center mt-4 -mx-4">
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover02.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover02.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -105,7 +105,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover03.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover03.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Christmas</a>
@@ -116,7 +116,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover04.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover04.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -127,7 +127,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover05.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover05.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -138,7 +138,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover06.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover06.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -155,7 +155,7 @@
               <div class="flex items-center mt-4 -mx-4">
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover06.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover06.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -166,7 +166,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover05.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover05.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -177,7 +177,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover04.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover04.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -188,7 +188,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover03.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover03.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -199,7 +199,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover02.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover02.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -216,7 +216,7 @@
               <div class="flex items-center mt-4 -mx-4">
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover02.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover02.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -227,7 +227,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover03.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover03.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -238,7 +238,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover04.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover04.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -249,7 +249,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover05.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover05.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -260,7 +260,7 @@
 
                 <div class="w-1/5 px-4">
                   <div>
-                    <a href="#"><img src="albumcover06.jpg" alt="album cover"></a>
+                    <a href="#"><img src="/albumcover06.jpg" alt="album cover"></a>
                   </div>
                   <div>
                     <a href="#" class="font-semibold block hover:text-white mt-2">Acoustic Pop Covers 2019</a>
@@ -277,7 +277,7 @@
     </div>
     <div class="bg-gray-700-spotify flex-none h-22 px-5 flex items-center justify-between">
       <div class="flex items-center">
-        <a href="#"><img src="albumcover01.jpg" alt="album cover" class="w-14 h-14"></a>
+        <a href="#"><img src="/albumcover01.jpg" alt="album cover" class="w-14 h-14"></a>
         <div class="ml-3">
           <div><a href="#" class="hover:underline">Name of Song</a></div>
           <div><a href="#" class="text-xs text-gray-500 hover:underline hover:text-white">Artist Name</a></div>
