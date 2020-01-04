@@ -8,7 +8,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: 'Tailwind CSS v1.0 - Examples of Web Pages' ,
+    title: 'Tailwind CSS v1.x - Examples of Web Pages' ,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
