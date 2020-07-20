@@ -21,6 +21,6 @@
   "devDependencies": {
     "nodemon": "^1.18.9",
     "autoprefixer": "^8.6.4",
-    "tailwindcss": "^1.1.4"
+    "tailwindcss": "^1.5.1"
   }
 }
