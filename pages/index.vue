@@ -98,7 +98,7 @@
               <a href="/spotify" class="text-lg font-semibold hover:text-gray-600">Spotify</a>
             </div>
             <div>
-              <a href="#" target="_blank" class="text-gray-800 hover:text-gray-600">Screencast</a>
+              <a href="https://youtu.be/SLGb2RLie9w" target="_blank" class="text-gray-800 hover:text-gray-600">Screencast</a>
             </div>
           </div>
         </div>
