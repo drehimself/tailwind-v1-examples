@@ -46,13 +46,7 @@ export default {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     '@nuxtjs/markdownit',
-    'nuxt-purgecss',
   ],
-  purgeCSS: {
-    mode: 'postcss',
-    whitelistPatterns: [/asd.*/],
-  },
-
   /*
   ** Axios module configuration
   */

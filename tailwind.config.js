@@ -1,4 +1,7 @@
 module.exports = {
+  purge: [
+    './**/*.vue',
+  ],
   theme: {
     typography: (theme) => ({
       default: {
