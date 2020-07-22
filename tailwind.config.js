@@ -1,5 +1,22 @@
 module.exports = {
   theme: {
+    typography: (theme) => ({
+      default: {
+        css: {
+          a: {
+            color: theme('colors.blue.600'),
+          },
+          img: {
+            display: 'inline-block'
+          },
+          hr: {
+            borderColor: theme('colors.gray.400'),
+            marginTop: '2em',
+            marginBottom: '2em',
+          }
+        }
+      }
+    }),
     extend: {
       colors: {
         'meetup-blue': '#00455D',
@@ -74,5 +91,7 @@ module.exports = {
   variants: {
     textColor: ['responsive', 'hover', 'focus', 'group-hover'],
   },
-  plugins: []
+  plugins: [
+    require('@tailwindcss/typography'),
+  ]
 }

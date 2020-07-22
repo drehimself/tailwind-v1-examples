@@ -289,9 +289,7 @@
 
         <div class="readme-container rounded-md border border-gray-400 px-4 py-4 mt-4">
           <h4 class="font-semibold">README.md</h4>
-          <div>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore officia doloremque perspiciatis commodi, eaque suscipit cum a nam nisi quis, aut laborum quibusdam maiores, amet cumque consequatur veritatis? Vitae saepe eligendi nostrum ipsa atque rerum quibusdam aliquid deleniti officia veniam. Temporibus, quae! Blanditiis mollitia nobis quo dolores aspernatur tenetur dicta quas itaque, quos assumenda aliquid recusandae ducimus a rerum quasi alias cumque labore voluptates ipsa dignissimos facere. Molestias molestiae in impedit incidunt provident nam harum vel, repellendus rerum possimus nesciunt ullam magni ea eveniet eum autem mollitia minima, natus cumque! Magnam incidunt fugit ratione! Fuga asperiores itaque corporis molestias ex, id nemo dignissimos. Dolorum delectus mollitia harum excepturi officiis laudantium qui voluptatem maxime hic sunt quae, sit possimus, illum placeat sapiente! Quis adipisci perferendis corporis beatae? Animi reprehenderit nemo itaque corrupti? Quod, eaque. Sequi dolor quidem nobis dolorum modi. Iusto rerum dolore tempora, molestiae qui assumenda, soluta tenetur ex corporis expedita hic culpa excepturi fugit nam nemo. Consequuntur debitis dolorem molestias consequatur maxime quas dignissimos reiciendis non laudantium facilis? Placeat blanditiis alias iusto iure nesciunt aliquam iste animi nostrum ex delectus voluptatum rerum consequuntur aperiam beatae eos id cupiditate, tempora ipsa voluptatibus. Nemo, repellendus sapiente aut incidunt ducimus eaque iste.
-          </div>
+          <div v-html="readme" class="prose max-w-none px-4"></div>
         </div> <!-- end readme-container -->
 
       </div> <!-- end file-explorer-container -->
@@ -441,3 +439,15 @@
     </footer>
   </div>
 </template>
+
+<script>
+import readme from './readme-tailwind.md'
+
+export default {
+  computed: {
+    readme() {
+      return readme
+    }
+  }
+}
+</script>
